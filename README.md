@@ -8,4 +8,5 @@ https://archive.ics.uci.edu/dataset/481/emg+data+for+gestures
 
 
 Abishek Saravanakumar a7abishek@gmail.com abishakex
+
 Adam Bhavnagarwala adambhav2623@gmail.com abhavnag3
